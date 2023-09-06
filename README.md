@@ -1,0 +1,2 @@
+# ya.projects
+educational practice
