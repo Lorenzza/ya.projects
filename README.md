@@ -15,5 +15,4 @@
 |[Модель предсказания количества заказов такси за следующий час](https://github.com/Lorenzza/ya.projects/blob/main/Taxi%20orders%20forecast.ipynb) | Python, Pandas, Scikit-learn, statsmodels |
 |[Модель для поиска и маркировки токсичных комментариев ](https://github.com/Lorenzza/ya.projects/blob/main/Toxic%20comments%20detection.ipynb) | Python, Pandas, Machine Learning, NLP, ntlk, tf-idf |
 |[Определение приблизительного возраста людей по фотографии](https://github.com/Lorenzza/ya.projects/blob/main/Customer%20age%20detection%20fin.ipynb) | Python, Keras, Machine Learning, Computer Vision |
-|[Модель для снижения расходов на электроэнергию и оптимизации затрат) ](https://github.com/Lorenzza/ya.projects/blob/main/Cost%20optimization%20steel%20plant.ipynb) | Python, Pandas, Sklearn, Numpy, Matplotlib, XGBRegressor, LGBMRegressor, CatBoostRegressor,
-визуализация важности признаков |
+|[Модель для снижения расходов на электроэнергию и оптимизации затрат) ](https://github.com/Lorenzza/ya.projects/blob/main/Cost%20optimization%20steel%20plant.ipynb) | Python, Pandas, Sklearn, Numpy, Matplotlib, XGBRegressor, LGBMRegressor, CatBoostRegressor, визуализация важности признаков |
